@@ -1,0 +1,7 @@
+Basic metadata:
+- Title
+- Publisher: name, type (conf/journ/book/thesis...), year, volumn, date ...
+- Authors: name, email, affiliation
+- Abstract, keywords
+- References: title, publisher, authors
+  

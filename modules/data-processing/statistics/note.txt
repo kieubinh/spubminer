@@ -1,0 +1,5 @@
+statistics:
+- number of articles
+- number of authors
+- number of affliations
+...

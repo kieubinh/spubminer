@@ -1,0 +1,5 @@
+Advance metadata:
+- Figures: title
+- Table: title
+- Dataset: name, source
+- Acknowledgement: affiliation support
